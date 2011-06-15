@@ -24,7 +24,7 @@
 	<string name="priority">Use Priority Inbox</string>
 	<string name="priority_summary">Enable to notify only for messages in your Priority Inbox</string>
 	<string name="visible">Visible notifications</string>
-	<string name="visible_summary">Replaces Gmail notifications in status bar</string>
+	<string name="visible_summary">Show Gmail notification in status bar and use LED</string>
 	<string name="nicon">Notification icon</string>
 	<string name="nicon_summary">Icon shown in status bar</string>
 	<string name="gmstylefirst">Gmail style notifications</string>
