@@ -76,6 +76,7 @@
     </string-array>
     
     <array name="niconentries">
+        <item>Android 2.3</item>
         <item>Android 2.0</item>
         <item>Android 1.5</item>
         <item>Envelope (aqua)</item>
@@ -96,6 +97,7 @@
     </array>
 	
 	<string-array name="niconentryvalues">
+        <item>nicon_23</item>
         <item>nicon_20</item>
         <item>nicon_15</item>
         <item>nicon_aqua</item>
